@@ -1,2 +1,2 @@
-# SVD_Singular-Value-Decomposition
+# SVD_Singular-Value-Decomposition.
 compressing photo with using SVD
